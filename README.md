@@ -1,0 +1,2 @@
+# inventariobp
+github pages
